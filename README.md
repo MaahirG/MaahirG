@@ -2,7 +2,7 @@
 
 🔍 I'm actively seeking Summer 2022 software engineering, ML & AV internships
 * Currently: SWE Intern @[Wish](https://www.wish.com/companyinfo?hide_login_modal=true) on the Search & Recommendations Team
-* Previouly: ML Intern @[PerkinElmer](https://www.perkinelmer.com/uk/), SWE Intern @[Swap Robotics](https://www.swaprobotics.com/)
+* Previously: ML Intern @[PerkinElmer](https://www.perkinelmer.com/uk/), SWE Intern @[Swap Robotics](https://www.swaprobotics.com/)
 
 💻 Portfolio: [maahirgupta.com](https://maahirgupta.com/)
 
